@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KozhinPortfolio/static/css/main.09aaae0b.css",
+    "main.js": "/KozhinPortfolio/static/js/main.f5daf476.js",
+    "static/js/787.cfd8f164.chunk.js": "/KozhinPortfolio/static/js/787.cfd8f164.chunk.js",
+    "static/media/Semen.jpg": "/KozhinPortfolio/static/media/Semen.d2e43e0d436fda4ce2e2.jpg",
+    "static/media/socialNetwork.png": "/KozhinPortfolio/static/media/socialNetwork.d665f29f01f8a5367a33.png",
+    "static/media/cards.png": "/KozhinPortfolio/static/media/cards.e23ef9a6dbe25a638cb7.png",
+    "static/media/todo.png": "/KozhinPortfolio/static/media/todo.13977b2bdb30d0e159a6.png",
+    "static/media/react2.png": "/KozhinPortfolio/static/media/react2.12463cbfe8ca2a94e3b1.png",
+    "static/media/redux.png": "/KozhinPortfolio/static/media/redux.af4971ce9deb1b6496db.png",
+    "static/media/ts1.png": "/KozhinPortfolio/static/media/ts1.562983c100cfddc0bb41.png",
+    "index.html": "/KozhinPortfolio/index.html",
+    "main.09aaae0b.css.map": "/KozhinPortfolio/static/css/main.09aaae0b.css.map",
+    "main.f5daf476.js.map": "/KozhinPortfolio/static/js/main.f5daf476.js.map",
+    "787.cfd8f164.chunk.js.map": "/KozhinPortfolio/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09aaae0b.css",
+    "static/js/main.f5daf476.js"
+  ]
+}
