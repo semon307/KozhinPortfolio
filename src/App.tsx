@@ -8,6 +8,7 @@ import {Remote} from "./Remote/Remote";
 import {Contacts} from "./Contacts/Contacts";
 import {Footer} from "./Footer/Footer";
 import s from "./App.module.css"
+import {CodeWars} from "./CodeWars/CodeWars";
 
 function App() {
     return (
@@ -16,6 +17,7 @@ function App() {
             <Main/>
             <Skills />
             <Projects/>
+            <CodeWars/>
             <Remote />
             <Contacts/>
             <Footer/>

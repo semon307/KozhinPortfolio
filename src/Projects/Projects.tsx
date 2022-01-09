@@ -5,6 +5,7 @@ import {Title} from "../Common/Components/Title/Title";
 import todoImage from "./../Assets/Images/todo.png"
 import cardsImage from "./../Assets/Images/cards.png"
 import socialNetworkImage from "./../Assets/Images/socialNetwork.png"
+import investImage from "./../Assets/Images/invest.png"
 
 export const Projects = () => {
     const socialNetwork = {
@@ -15,6 +16,9 @@ export const Projects = () => {
     }
     const cards = {
         backgroundImage: `url(${cardsImage})`
+    }
+    const invest = {
+        backgroundImage: `url(${investImage})`
     }
     return (
         <div id={"Projects"} className={s.projectsBlock}>
@@ -28,6 +32,7 @@ export const Projects = () => {
                         link={"https://semon307.github.io/Social_network"}/>
                         <Project style={todo} title={"Todo list"} description={"Implementing React of 'today and tomorrow': hooks, functional components only, modern flow and libraries "} link={"https://semon307.github.io/todolist"}/>
                         <Project style={cards} title={"Cards"} description={"Team work, open-sorce project. Implementing learning-cards project"} link={"https://AleksMaifet.github.io/Cards"}/>
+                        <Project style={invest} title={"Invest project"} description={"Implementing of my Economics background and life-style into coding"} link={"https://semon307.github.io/inves-project/"}/>
                     </div>
                 </div>
             </div>
